@@ -13,7 +13,7 @@
       <p><b>地址：北京市丰台区</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/照片.jpg" width="100%">
     </td>
   </tr>
 </tbody></table>
