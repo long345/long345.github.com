@@ -1,6 +1,6 @@
 <html lang="en"><head>
     <meta charset="UTF-8">
-    <title></title>
+
 
 <table border="0">
   <tbody><tr>
@@ -16,7 +16,7 @@
     </td>
   </tr>
 </tbody></table>
-</div>
+
 
 <hr>
 <p>龙宇琪，女，目前硕士研究生在读（2020.9-2022.6），主修应用统计学大数据方向，热爱数据分析，能够运用机器学习的技能对用户特征进行提取与处理
